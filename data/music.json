@@ -1,0 +1,24 @@
+{
+  "tracks": [
+    {
+      "id": "c414bb16-089b-4e65-bd4f-de9f405096e2",
+      "name": "Azhagiye 8K_4K Video _ Kaatru Veliyidai _ A. R. Rahman _ Karthi _ Aditi Rao Hydari",
+      "artist": "Unknown Artist",
+      "filename": "c414bb16-089b-4e65-bd4f-de9f405096e2.mp3",
+      "path": "/data/c414bb16-089b-4e65-bd4f-de9f405096e2.mp3",
+      "mimetype": "audio/mpeg",
+      "size": 3838323,
+      "dateAdded": "2025-05-09T21:50:21.070Z"
+    },
+    {
+      "id": "87e01b5d-32c6-4535-b90c-04e0e85b2609",
+      "name": "Shape of You (Lyrics)",
+      "artist": "Ed Sheeran",
+      "filename": "87e01b5d-32c6-4535-b90c-04e0e85b2609.mp3",
+      "path": "/data/87e01b5d-32c6-4535-b90c-04e0e85b2609.mp3",
+      "mimetype": "audio/mpeg",
+      "size": 3744808,
+      "dateAdded": "2025-05-09T22:17:56.017Z"
+    }
+  ]
+}
